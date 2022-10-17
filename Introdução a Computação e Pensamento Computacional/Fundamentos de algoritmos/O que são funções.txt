@@ -1,0 +1,19 @@
+A função computacional é similar ao conceito de função matemática.
+	As funções, ou sub-rotinas, são bloco de instruções que realizam tarefas específicas.Pode-se dizer também que são blocos de instruções(código), identificadospor nomes e parâmetros.
+
+	Função? Não é mais fácil fazer tudo junto?
+	Com a função ocorre a modularização do programa, o código fica mais claro e conciso além de poder fazer a reutilização de instruções.
+	
+Exemplo de função: determinando a média escolar através de uma função
+	funcao mediaescolar(nota1,nota2)
+
+	resultado = 0
+	resultado = (Nota1 + Nota2)/2
+	
+	retorne resultado
+
+	fim funcao
+	--------------------------
+	aluno1 = mediaescolar(nota11,nota21)
+	aluno2 = mediaescolar(nota12,nota22)
+	aluno13 = mediaescolar(nota13,nota23)

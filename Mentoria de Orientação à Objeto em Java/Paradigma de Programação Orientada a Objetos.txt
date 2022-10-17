@@ -1,0 +1,30 @@
+POO é o modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros
+
+Pilares da Orientação a Objeto
+
+*Abstração - Habilidade de concetrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidadess existentes no domínio em questão.
+
+*Herança - Permite que objetos seja referenciados como pai e filhos, em que os objetos filhos herdam todas as características do objeto pai, mas o objeto pai nada herda do filho. Isso reduz a duplicação de código-fonte.
+
+*Encapsulamento - Significa esconder a implementação dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.
+
+*Composição - Busca representar as relações que os objetos devem ter, baseando-se nas relações que existem na vida real. Isso faz com que os objetos sejam reaproveitados, evitando duplicidade e mantendo a simplicidade.
+
+*Polimorfismo - Com o polimorfismo, podemos transformar objetos diferentes em objetos que conseguem trocar mensagem por meio da generalização de suas características.
+
+Desafio
+
+Dado o diagram a baixo, feito para uma empresa de vendas, utilize o conceito de Herança para remodelá-lo e implemente um programa que explore o domínio em questão:
+
+Vendedor					Consultor
+
++ nome : String					+ Nome : String						
++ Cpf : long                                    + CPF : long
++ Comissao : double                             + ValorHora : double
++ NumeroVendas: Long                            + HorasTrabalhadas : long
+--------------------                            ---------------------------
++ CalcularSalario() : double                    + CalcularSalario() : double
+
+a) Crie uma classe mãe chamada Funcionario com os atributos nome, cpf (passados pelo construtor), uma constante para armazenar o valor do salário mínimo e um método abstrato "calcularSalario";
+b) Vendedores ganhar 1 salário mínimo, mais uma comissão por vendas;
+c) Consultores ganham somente pelas horas que trabalharam;

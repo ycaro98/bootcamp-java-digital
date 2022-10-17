@@ -1,0 +1,8 @@
+	Decomposição consistem em um processo de quebrar e determinar partes menores e gerenciáveis. É uma estratégia de análise.Também pode ser dizer que é estudar, explorar, "realizar exame detalhado" ou decompor em elementos contituíntes de uma informação.
+	Também existe um complemento que ajuda no processo de quebra, sendo realizada em paralelo ou após a estratégia inicial, é chamada síntese. Ela combina os elemento recompondo o problema original. É um processo de reconstrução que funde os elementos de maneira coerente consistindo em reunir elementos distintos em um único elemento.
+	A sequência dessas tarefa pode ser sequêncial ou em paralelo. 
+	Sequêncial:  Dependência entre tarefas. Executadas em "fila"
+	Paralelo: Tarefas que podem ser executadas concomitantemente, concorrentemente, de maneiras que são isoladas e independentes, e depois que são resolvidas serão agregadas para que resolva o problema.
+
+E como decompor? Primeiro se identifica e coleta os dados para que sejam agregadados e seja corrigido ou trago a solução para esse problema.
+

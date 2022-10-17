@@ -1,0 +1,32 @@
+Estrutura Condicional 
+	  Condição -> Estado de uma pessoa ou mais coisa
+	  Condicional -> Que expressa uma condição ou suposição. Contém ou implica uma suposição ou hipótese.
+
+Operadores Relacionais
+
+=  : Igual
+<> : Diferente de 
+>  : Maior que
+<  : Menor que
+>= : Maior ou igual a
+<= : Menor ou igual a
+
+Condicional Composta: 
+Ex.:	Se(<condição>) então 
+	  <instruções para condição verdadeira>
+	Senão
+	  <instruções para condição falsa>
+	fim_se	
+	
+Condicional Encadeado
+Ex.: 	Se (<condição 1>) então
+	   <instruções para condição verdadeira>
+	Senão 
+	  Se (<condição 2>) então 
+	     <instruções para: condição 2 verdadeira e condição 1 falsa>
+	Senão 
+	     <instruções para condição 1 e 2 falsas>
+	fim_se
+
+Operadores lógicos - Quando utilizar? Verificação de V ou F, substitui o encadeamento de condições
+

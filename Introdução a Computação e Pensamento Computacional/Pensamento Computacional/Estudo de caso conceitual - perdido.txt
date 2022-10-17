@@ -1,0 +1,16 @@
+Caso: Você esta perdido na floresta
+
+
+- Como resolver o problema utilizando o pensamento computacional? identificando os mecanismos, os recursos comuns nessa floresta e os detalhes mais importantes.
+
+Para que eu possa sobreviver na floresta preciso de água, comida e abrigo. A água consigo pela chuva ou alguma nascente. Comida posso coletar ou caçar mas será necessário fogo. Para encontrar abrigo posso me localizar com um mapa, procurar alguma proteção como o proprio fogo ou uma lança e que a localização seja quente e seca para criar fogo.
+
+Nesse sistema criado acima foi feito já a decomposição, o reconhecimento padrão e abstração. Proximo passo será descobrir como cozinha nessa floresta.
+
+Preparando a comida:
+-Pegar o peixe
+- colocar água a panela
+- ferver a água
+- limpar o peixe
+- fazer o cozido 
+- assar o filé

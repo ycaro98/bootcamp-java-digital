@@ -1,0 +1,26 @@
+Variáveis
+
+Qual a função do computador? Processar as informações que passamos pra ele e essas informações são transportas por dois tipos de conteúdos: Dados puros e instruções normativas utilizadas pelo computador para executar determinadas situações que irão processar aqueles dados. 
+	Logos esses dados são tratados e processados sendo divididos por dados numericos, caracteres e lógicos.
+	Os númericos podem ser dividos em inteiros e reais. Já os caracteres são tudo aquilo que não representamos por números, e, os dados lógicos, ou booleano, pode ser dividido em verdadeiro-1 e falso-0.
+
+Então o que é uma variável? É um tipo de estrutura mútavel que pode variar dentro do seu valor, sendo inconstante, pode receber mais de um valor e modificar o seu conteúdo.
+	A variável pode assumir qualquer um dos valores de um determinado conjunto de valores.
+	ex.: a-b=d ou a+b=c
+
+Regras da variável
+-Atribuição de um ou mais caracteres
+-Primeira letra- não número
+-Sem espaços em branco
+-vedado
+	- Utilização de palavras reservadas
+-Carcteres e números
+
+Papel da variável 
+	
+			- Ação: Modificação de estada
+Papéis de uma variável 
+			- Controle: vigiada
+
+Definição de constante: Tudo aquilo que é fixo ou estável.
+

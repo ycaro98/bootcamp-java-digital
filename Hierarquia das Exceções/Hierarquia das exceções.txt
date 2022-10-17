@@ -1,0 +1,5 @@
+A linguagem Java dispõe de uma variedade de classes que representam exceções, e estas classes são organizadas em uma hierarquia denominadas Checked and Unchecked Exceptions ou Exceções Checadas e Não Checadas.
+
+	
+Exceções customizadas: Nós podemos criar nossas próprias exceções baseadas em regras de negócio e assim melhor direcionar quem for utilizar os recursos desenvolvidos no projeto, exemplo:
+	- Imagina que como regra de negócio, par formatar um cep necessita sempre ter 8 dígitos, caso contrário lançará uma exceção que denominamos de CepInvalidoException

@@ -1,0 +1,10 @@
+Existem 3 tipos de análise que o computador são elas a analise lexical, análse syntax, e análise semantica
+
+Análise léxica:  Particiona os elementos tokens, depois classifica os elementos como identificadores, string, palavras reservadas e número para finalizar com a eliminação do que não é necessário como caracteres de espaços em branco, comentários...
+
+Análise sintática: Define a corretude do programa
+sintaxe: Componente do sistema linguístco que interliga os constituintes da sentença, atribuindo-lhe uma estrututra
+
+Análise semântica: Lógica do programa
+Semântica: é o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sinais e símbolos.
+	Erros de semântica: não faz o que é esperado

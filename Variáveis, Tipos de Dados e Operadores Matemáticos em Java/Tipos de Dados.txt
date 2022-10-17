@@ -1,0 +1,30 @@
+Conceituando: Dados são os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente.
+
+Tipificação:
+	*Estática(forte) vs Dinâmica(fraco)
+	*Primitivo vs Composto
+
+Tipos de dados: tipo textual, numeral(inteiro ou fracionados), lógico(true or false) e objeto.
+
+Exemplos numeral:
+Byte: -128 até 127 -> byte b = 15;
+short: -32768 até 32767 -> short s  = -15785;
+int: -2147483648 até 2147483647 -> int i= 8515785;
+long: -9223372036854775808 até 9223372036854775808 -> long l = 5938515785L;
+float: +-3.40282347E+38F-> float f =3.14...(f);
+double: +-1.79769313486231570E+308 -> double d = 3.14...(d);
+
+Exemplos textual:
+char: caracteres de 16-bit unicode -> char c = '\u0084'; ou char c = 'T';
+String: um tipo "especial -> String s = "T";
+
+Exemplo lógico:
+Boolean: true e false -> boolean s = false;
+
+Exemplo objeto:
+Serão cenas de um próximo capítulo...
+
+
+Boas práticas
+Usar de forma adequada cada tipo de dado para cada informação
+

@@ -1,0 +1,40 @@
+Definição de paradigma -> Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação
+
+Classificação de paradigmas -> orientação à objeto, procedural, funcional, estruturado, computação dístribuida e lógico.
+
+Paradigma estruturado -> sequência, decisão, interação. Por exemplo, a linguagem C.
+	Utilização dele: Problemas simples e diretos, ótimo para aprender programação.
+
+Orientação à Objeto -> Paradigma de programação baseado na utilização de objetos e suas interações. Análogo ao mundo real.
+
+O que é um objeto?  é descrito por características específicas, comportamentos e estado.
+
+Vamos supor que temos uma caneta em mão:
+O que tenho	Sou Capaz de fazer          Como faço
+Modelo		   Escrever		     Tampada
+Cor 		   Desenhar	             Destampada
+Carga		   Rabiscar		     Em uso
+Corpo              Pintar
+Tampa              Destampar
+
+O que tenho, sou capaz de fazer e como faço -> Atributos, métodos e estado.
+
+Ex.: Orientação a objeto
+
+classe caneta():
+ cor: inteiro
+ carga: caracter
+ tampada: lógico
+
+ metodo escrever()
+  Se estado tampada
+    Escreva("Destampar")
+  Senão
+    Escreva ("algo")
+  Fimse
+ 
+ metodo tampar()
+  Tampada = verdadeiro
+fimclasse
+
+

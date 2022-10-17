@@ -1,0 +1,9 @@
+O que é lógica?
+	 A lógica vem para solucionar um problema. Para definir o que é lógica precisamos primeiro definir o que é problema. O problema é uma questão que foge a um determinada regra, problema é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia. 
+	Agora podemos definir lógica que é parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não.
+	Lógica -> Organização coesa, ordenação que segue convenções, forma como desencadeiam acontecimentos, forma de raciocínio.
+	Lógica computacional -> Organização e planejamento das intruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa
+
+	"Everybody in this country should learn how to program a computer because it teaches you how to think" - 															Steve Jobs
+	"Todos nesse país deveriam aprender como programar um computador por que ensina como pensar" -
+												        Steve Trampos

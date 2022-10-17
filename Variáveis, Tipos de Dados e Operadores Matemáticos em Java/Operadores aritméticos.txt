@@ -1,0 +1,21 @@
+Conceito: São símbolos especiais quais são capazes de realizar ações específicas em um, dois ou mais operandos e, em seguida, retornar um resultado.
+
+Tipos:
+pós-fixado: exp++ ou  exp--
+prefixado:: ++exp ou --exp
+aritmético: +, -, * e %
+atribuição: =, +=, -=, *=, /= e %=
+
+Exemplos:
+int i = ++l; -> i= k+1;
+int j = k--; -> j=k;k = k1 - 1;
+float f = 1.5f + 4.5f;
+long l = 10398L *5L;
+double d = 45d / 4d;
+int k = 15 % 4;
+double d = f
+i += 3; -> i= i+5;
+j -=3; -> j = j-3;
+d /= 2.7d; -> d = d/2.7d;
+I *= 3; -> I = I * 3;
+k %= 2; -> k = k%2;

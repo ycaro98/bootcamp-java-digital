@@ -1,0 +1,13 @@
+O comando for (para) permite que uma variável contadora seja testada e ubcrenebtada a cada iteração, sendo essas informações definidas na chamada do comando. O comando for recebe como entrada uma variável contadora, a condição e o valor de incrementação.
+
+Como funciona essa implementação:
+
+//estrutura de controle de fluxo for
+
+for (bloco de inicialização; expressão booleana de validação; bloco de atualização)
+{
+	//comando que será executado até que a
+	// expressão de validação torne-se falsa
+}
+
+O uso do for / each está fortemente relacionado com um cenário onde contenha um array ou coleção, e assim, a interação [e baseada aos elementos da coleção.

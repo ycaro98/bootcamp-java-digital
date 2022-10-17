@@ -1,0 +1,15 @@
+Reconhecimento de padrões
+
+- Modelo base
+- Estrutura Invariante
+- Repetição
+
+Por que determinar padrões? Pois conseguimos generalizar com objetivo de obter resolução para problemas diferentes
+
+Aplicações que utilizam padrões:
+- Classificação de dados;
+- Reconhecimento de imagem;
+- Reconhecimento de fala;
+- Análise de cenas;
+- Classificação de documentos.
+

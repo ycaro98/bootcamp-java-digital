@@ -1,0 +1,49 @@
+*História do Java*
+
+	Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90, na empresa Sun Microsystems e posteriormentes adquirada pela Oracle em 2008.
+	Desde seu lançamento, em maio 1995, a plataforma Java foi adotada mais rapidamente do que qualquer outra linguagem de programação na história da computação.
+	Tornou-se popular pelo seu uso na internet e está presente em navegadores, programas e jogos de computador, celular, calculadoras, e etc...
+
+*Características do Java*
+
+	Diferente das linguagens de programação compiladas, (a compilação do código se dá anda em tempo de desenvolvimento) a linguagem Java é compilada para um bytecode que é interpretado por uma máquina virtual (JVM).
+
+*Plataforma X linguagem*
+	
+	A linguagem de programação Java é a linguagem convencional da plataforma Java, mas não é a sua única linguagem.
+	Uma grande vantagem da plataforma é a de não estar presa a um único sistema operacional ou hardware, pois seus programas rodam através de uma máquina virtual que pode ser emulada.
+	*Java SE (Java Platform, Standard Edition)
+	*Java EE (Java Platform, Enterprise Edition)
+	*Java ME (Java Platform, Micro Edition)
+
+*Fases da Execução Java*
+
+	1. Escrevemos o seu código-fonte(arquivo com a extensão .java)
+	2. Utilizamos o JDK para compilar o seu código-fonte e gerar o arquivo bytecode (arquivo com a extensão .class)
+	3. Para executar o seu programa, a JVM lê o arquivo compilado (.class) e as biblioteccas padrões do Java que estão no JRE.
+
+
+*JDK x JRE*
+
+* JDK (Java Development Kit) - é o Kit de Desenvolvimento Java responsável por compilar código-fonte (.java) em bytecode (.class)
+* JVM (Java Virtual Machine) - é a Máquina Virtual do Java responsável por executar o bytecode (.class)
+* JRE (Java Runtime Environment) - Ambiente de Execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar o seu código e para a JVM executar o seu programa.
+
+*Versões Java*
+
+* Principal diferença entre OpenJDK e JDK Oracle: O OpenJDK éum Java totalmente open source com a GNU General Public License e já o JDK Oracle requer uma licença comercial sob o Contrato de Licença de Código Binário Oracle.
+*Os lançamentos da versões OpenJDK LTS (suporte de longo prazo) acontecem pelo menos a quatro anos.
+
+*O que é IDE?*
+
+	IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de aplicações.
+	O Java possui um conjunto de ferramentas para desenvolver programas baseados nele, que são conhecido como Java Development KIT ou JDK, sendo este o ambiente voltado para os desenvolvedores.
+	A JDK faz parte do funcionamento das IDE'S - programas de desenvolvimento com IntelliJ, Eclipse, NetBeans, entre outros.
+ 
+
+*IDE'S utilizadas no curso*
+
+* Eclipse: é uma IDE para desenvolvimento Java, porém suporta várias outras linguagens. Ele foi feito em Java e segue o modelo open sourcec de desenvolvimento de software
+
+* IntelliJ IDEA: é um ambiente de desenvolvimento integrado escrito em Java para o desenvolvimento de software de computador. Está disponível como uma edição da comunidade licenciada Apache 2, e em uma edição coercial proprietária.
+	

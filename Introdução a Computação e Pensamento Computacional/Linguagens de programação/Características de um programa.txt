@@ -1,0 +1,12 @@
+				 Legibilidade
+Desenvolvimento de programas ->	 Redigibilidade
+				 Confiabilidade
+				 Custo
+
+Legibilidade: facilidade de leitura, codigo coêrente e compreensivel, definição adequada das estruturas
+
+Redigibilidade: Pode conflitar com a legibilidade, coerência nas instruções, simplicidade da escrita, suporte a abstração, reuso do código e expressividade.
+
+Confiabilidade: Verificação de tipos, tradta exceções, uso de ponteiros e compatibilidade entre compiladores. Faz o que foi programado para fazer.
+
+Custo: Treinamento, codificação, compilação, execução e infra-estrutura

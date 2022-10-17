@@ -1,0 +1,34 @@
+O que são métodos? é uma porção de código (sub-rotina) que é disponibilizada por uma classe. Este é executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
+
+Padrão de definição do método: 
+<?visibilidade?> <?tipo?> <?modificador?> retorno nome(<?parâmetros?>) <?exceções?> corpo
+
+Exemplos de uso:
+
+V: "public", "protected" ou "private"
+T: concreto ou abstrato
+M: "static" ou "final"
+R: tipo de dado ou "void"
+N: nome que é fornecido ao método
+P: parâmetros que pode receber
+E: exceções que pode lançar
+C: código que possui ou vazio
+
+Exemplos de métodos
+public String getNome(){ ... }
+public double calcularTotalNota(){...}
+public int verificarDistancia(int cordenada1, int cordenada2){...}
+public abstract void executer();
+public void alterarFabricante(Fabricante fabricante){ ... }
+public Relatorio gerarDadosAnaliticos(Cliente cliente
+list<Compra> compras {...}
+
+public static R N(P) {...}
+
+Forma de utilização do método: Passa=se uma mensagem atravésde uma classe ou objeto.
+
+nome_da_classe.nome_do_metodo(); ou nome_da_classe.nome_do_metodo(...);
+nome_do_objeto.nome_do_metodo(); ou nome_do_objeto.nome_do_metodo(...);
+
+	Math.random(); ou Math.sqrt(4);
+usuario.getEmail(); ou usuario.alterarEndereco(endereco)

@@ -1,0 +1,23 @@
+					Algoritmos
+
+ Como um computador processa os dados? Ele recebe, manipula e armazena dados.
+
+ O processo de resolução de problemas a partir de algoritmos é algo que podemos chamar de "step by step", ou seja, um  
+ passo-a-passo utilizando as instruções que você determinou
+
+		*--------Entendimento por humano e máquina----------------*
+	O que precisa ser feito? ->
+					Intruções
+	Qual a ordem de execução? ->
+		*--------Entendimento por humano e máquina----------------*
+
+O que devemos fazer em partes para o desenvolvimento de programas? primeiro devemos analisar, estudar e decidir quais são os dados de entrada e saída, depois usar o algoritmo que vai descrever o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo, e para finalizar o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+Como construir um algoritmo? Primeiro é compreender o problema e verificar os pontos mais importantes a serem resolvidos, depois, definir os dados de entradas a serem fornecidos no seu cenário, logo após vai definir o processamento de calculos
+e restrições pra depois retornar os dados de saída que ocorre após o processamento, vai utilizar um método de construção para o algoritmo e testar seu algoritmo.
+
+Contruções de algoritmos
+
+- Narrativa: Utilização da linguagem natural
+- Fluxograma: Utilização de símboloso pré-definidos
+- Pseudocódigo: Portugol com regras bem definidas e passos a serem seguidos

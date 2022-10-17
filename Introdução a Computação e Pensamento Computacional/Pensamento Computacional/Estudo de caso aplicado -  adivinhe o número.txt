@@ -1,0 +1,12 @@
+Busca binária
+
+Método de busca mais eficiente que busca por varredura
+
+Passo 1 - Ordenar o vetor
+Passo 2- Módulo de L/2
+Passo 3- Acessar estrutura
+Passo 4- Comparar valores
+Passo 5- Repita até encontrar o número
+Passo 6- Imprima "Busca bem sucedida"
+
+Para aprimorar essa habilidade precisa se permitir que expliquemos as decisões e o processo de desenvolvimento para um problema proposto.

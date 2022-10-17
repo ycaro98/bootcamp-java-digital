@@ -1,0 +1,1 @@
+Como vimos em operadores, podemos abreviar nosso algorítmico condicional refatorando com o conceito de operador ternário

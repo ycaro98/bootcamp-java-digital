@@ -1,0 +1,35 @@
+Retorno é uma instrução de interrupção simbolizado pelo return.
+
+O método executa seu retorno quando:
+ -completa todas suas instruções internas
+ -chega a uma declaração explicita de retorno
+ -lança uma exceção
+
+Considerações
+- O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto;
+- O tipo de dado do return deve ser compatível com o do método;
+- Se o método for sem retorno(void), pode ou não ter um "return" para encerrar sua execução.
+
+Exemplos
+
+public String getMensagem() {
+	return "Ola!";
+}
+
+public double getJuros() {
+	return 2.36;
+}
+
+public int getParcelas() {
+	return 1.36f;
+} // errado pois é um metodo int pedindo pra retornar float
+
+public void setIdade() {
+	return 10;
+} // vai dar erro pq um método void não pode retornar algo
+
+public void executar () {
+	...
+	return;
+	...
+}

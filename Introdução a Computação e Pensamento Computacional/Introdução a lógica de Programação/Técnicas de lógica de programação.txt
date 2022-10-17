@@ -1,0 +1,36 @@
+Exemplo de técnicas de lógica
+
+Projeto de construção de um prédio
+
+1º Passo: Vai ser feita a planta baixa determinada pelo arquiteto
+2º Passo: Projeto da construção que é realizado pelo engenheiro
+3º Passo: Planejamento da área responsável que vai determinar a viabilidade do projeto
+	*------------------seguem uma lógica e determinam as instruções-------------------*
+
+Técnica Linear: podemos entender que é a execução sequênciada de uma série de operações onde temos recursos limitados e uma única dimensão.
+	-Modelo tradicional
+	-Não tem vínculo
+		- Estrutura hierárquica
+		- Usado tbm na Programação de computadores
+
+Ex.: Acordo -> Vou até a cozinha -> Faço café -> Leio meu jornal
+
+Técnica Estruturada: Organização, disposição e ordem dos elementos essenciais que compõemum corpo (concreto ou abstrato)
+	Objetivo: -Escrita 	-> Programas
+		  -Entendimento	-> Programas
+		  -Validação	-> Programas
+   		  -Manutenção 	-> Facilitação
+
+Ex.: Acordo -> Vou até a cozinha -> Faço café -> Leio meu jornal
+				 -> ou faço suco 
+
+Técnica Modular:  onde definimos partes independentes controlada por um conjunto de regras.
+
+	*-------------Modelo Padrão--------------*
+Ex.: Dados de entrada -> processo de transformação -> Dados de saída
+	*-------------Modelo Padrão--------------*
+
+Metas da técnica modular: Simplificação, decompor o problemar e verificação de módulos
+
+Ex.: Módulo preparar acordar -> Módulo preparar bebida -> Módulo tomar café da manhã
+

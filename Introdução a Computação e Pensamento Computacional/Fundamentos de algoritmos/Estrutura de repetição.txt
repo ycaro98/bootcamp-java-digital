@@ -1,0 +1,26 @@
+Vantagens de estrutura de repetição -  Acarreta em redução de linhas, compreensão facilitada dos dados e redução de erros no código.
+	
+	
+Ex.: Estrutura enquanto
+Enquanto a grama estiver alta eu corto a grama
+
+	grama = falso
+	Enquanto(grama ==falso)faça
+	<instrução de cortar grama>
+	<atualiza grama>
+
+	fim enquanto
+
+Ex.: Estrutura de repetição
+	Repetir ações, 
+	Por exemplo: para procurar um artigo: "Analisar conteúdo -> caso não encontre, passar a página -> analisar conteúdo..."e isso se repete até encontrar o artigo que você está procurando 
+	
+Ex.: Para...de...até
+	somatorio = 0
+	para inicio = 1 até 10
+		somatorio = somatorio + inicio
+		Escreva somatorio 
+	fim para
+
+
+										

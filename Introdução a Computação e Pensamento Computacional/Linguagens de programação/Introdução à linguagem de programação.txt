@@ -1,0 +1,6 @@
+Por que para começarmos a falar programação precisamos começar pela história da computação?
+	Para que possamos entender as dificuldades enfrentadas, o fundamento da computação e o processo de pensamento computacional.  
+
+Problema computacional é um objeto de discussão que possui instruções passo a passo que são mas facilmente resolvíveis em ambiente computacional.
+
+O que é linguagem de programação? Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte que pode ser traduzido ou interpretado.

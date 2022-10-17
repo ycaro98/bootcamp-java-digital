@@ -1,0 +1,16 @@
+	Para definir instrução primitiva vamos primeiro definir o que é Instrução: linguagem de palavras-chave(vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados.
+	
+	Exemplo:
+		Início programa:
+
+	variável->	Nota1 = 5
+			Nota = 8
+			Resultado = 0
+		
+			Resultado = (Nota1 + Nota2)/2  <- constante 
+
+			Escreva resultado
+
+		     Fim programa
+	
+				Saída: 6.5

@@ -1,0 +1,23 @@
+Definição de vetor: Um vetor é caracterizado por uma variavel dimensionada com tamanho pré-fixado.
+ 
+Definição de matriz: é uma tabela organizada em linhas e colunas no form ato x e y, onde x representa o número de linhas (horizontal) e y o número de colunas(vertical). Pode-se dizer também que é uma coleção de variáveis, contiguas de memórias ou índices de informações.
+
+Ex.: Média escolar	
+	nota 11 = 10
+	nota  21 = 5
+	
+	nota12= 7
+	nota22 = 8
+	-------------
+	notas_aluno1= [10,5]
+	notas_aluno2= [7,8]
+	notas_alunos[10,5,7,8] -> a cada duas posições um novo aluno
+	
+	ou
+
+	matriz_alunos[6][6]
+
+	escreva "ID aluno"
+	escreva matriz_alunos[0][0]
+	escreva "Média"
+	escreva matriz_alunos[0][6]

@@ -1,0 +1,9 @@
+Primeio vamos conceituar controle fluxo que é a habilidade de ajustar a maneira como um program realiza suas tarefas. Por emio de instruções especiais, chamadas de comandos, essas tarefas podem ser executadas seletivamente, repetidamente ou excepcionalmente.
+
+Classificações
+
+Estruturas condicionais: if-else, switch-case
+Estruturas de repetição: for, while, do-while
+Estruturas de exceções: try-catch-finally, throw
+
+iteração: repetição de uma ou mais ações de um programa

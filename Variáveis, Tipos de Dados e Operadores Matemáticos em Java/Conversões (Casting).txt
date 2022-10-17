@@ -1,0 +1,15 @@
+O que é Casting? é a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa
+
+Tipos de Casting
+
+Upcast - implícito
+Downcast - explícito
+
+Exemplo de utilização:
+
+long l; int i = 10; l - i;
+int i; long l = 100; i = (int) l;
+double d; float f = 10.5f; d = f;
+float f; double d = 10.5d; f = (float) d;
+int i; float f = 10.5f; i = (int) f;
+

@@ -1,0 +1,6 @@
+Passo 1 - Recebe os valores (x e y)
+Passo 2 - Resolva: Y/2 = Total
+Passo 3 - Resolva: Y+x = resultado_parcial
+Passo 4 - Ache o total 
+	Final = total x resultado_parcial
+Passo 5 - Imprima o resultado

@@ -1,0 +1,17 @@
+O que é uma collection? 
+É um objeto que agrupa múltiplos elementos (variáveis primitivas ou objetos) dentro de uma única unidade.
+Serve para armazenar e processar conjuntos de dados de forma eficiente.
+Antes do Java 2, a implementação de coleções na linguagem Java incluía poucas classes e não tinha organização de um framework.
+
+Composição da Collection
+Interface: é um contrato que aquando assumido por uma classe deve ser implementado
+Implementações ou Classes: são as materializações, a codificação das interfaces
+Algoritmos: é uma sequência lógica, finita e definida de instruções que devem ser seguidas para resolver um problema
+
+Exercicios
+
+Estudar interfaces
+Estudar implementações 
+Estudar Algoritmos
+
+Alinalisar a hieraquia Collection Framework

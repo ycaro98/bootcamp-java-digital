@@ -1,0 +1,15 @@
+Conceituando: é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome
+
+Criação: Alterar a assinatura do método: Ass = nome + parâmetros
+
+Ex.:
+ConverterParaInteiro (float f);
+ConverterParaInteiro (double d);
+ConverterParaInteiro (String s);
+converterParaInteiro (float f, RoundType rd);
+converterParaInteiro (double d, RoundType rd);
+converterParaInteiro (String s, RoundType rd);
+
+converterParaInteiro (RoundType rd, String s);
+converterParaInteiro();
+

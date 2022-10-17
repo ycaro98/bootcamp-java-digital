@@ -1,0 +1,8 @@
+Abstrair: Observar, um ou mais elementos, avaliando características e propriedades em separado
+Abstração: Processo intelectual de isolamento de um objeto da realidade
+Generalidade: Tornar-se geral, mais amplo, extender.
+
+Generalização/Abstração, na logíca, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar os dados? através de características, detectar os pontos esses e então generalizar em detrimento do detalhe.
+

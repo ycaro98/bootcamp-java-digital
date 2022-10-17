@@ -1,0 +1,36 @@
+Assinatura: é a forma de identificar unicamente o método
+	Ass = nome + parâmetros
+
+	Método:
+	public double calcularTotalVenda (double precoItem1, double precoItem2, double precoItem3){...}
+	
+	Assinatura:
+	calcularTotalVenda(double precoItem1,
+	double precoItem2, double precoItem3)
+
+Contrutor e Destrutor: são métodos espeiais usados na Orientação a Objetos.
+
+Mensagem: é o ato de solicitar ao método que o mesmo execute. Esta pode ser direcionada a um objeto ou a uma classe.
+
+Passagem de parâmetros: 
+Por valor (cópia);
+	Ex.:
+	int i = 10;
+	public void fazerAlgo (int i) {
+	
+		i = i + 10;
+		System.out.println("Valor de i dentro: " + i);
+	}
+	System.out.println("Valor de i fora:" + i);
+
+por referência (endereço)
+
+
+Boas práticas a definição de métodos
+-Nomes devem ser descritivos, mas curtos
+-Notação camelo: verificarSaldo(); executarTransferencia(...); existeDebito();
+-Deve possuir entre 80 e 120 linhas
+-Evite lista de parâmetros longas
+-Visibilidades adequadas
+
+

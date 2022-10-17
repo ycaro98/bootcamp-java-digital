@@ -1,0 +1,10 @@
+Racicínio lógico é ua forma de pensamento estruturado, ou raciocínio, que  permite encontrar a conclusão ou determinar a resolução de um problema.
+
+Classificação: Indução -> Leis e teorias; Ciências experimentais.
+	       Dedução -> Dedução; Previsões e explicações; Ciências exatas.
+	       Abdução -> Conclusão -> Premissa; Diagnósticos ou processos investigativos.
+			  ex.: "A grama esta molhada, logo deve ter chovido"; 
+	
+Inferência -> Sintética -> Abdução
+			-> Indução
+	   -> Analítica -> Dedução

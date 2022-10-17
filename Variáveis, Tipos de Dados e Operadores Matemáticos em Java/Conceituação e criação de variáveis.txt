@@ -1,0 +1,51 @@
+O que é uma variável? Um espaço na memória do computador, onde se pode guardar valores.
+
+Exisem 4 tipos:
+Instância: Objetos
+Classe: classe
+Local: dentro de métodos 
+Parâmetro: Na assinatura do método
+
+
+Padrão de definição:
+
+<?visibilidade?><?modificador?>tipo nome >?=valorInicial?>;
+
+V:"public", "protected" e "private"
+M:"static" e "final"
+T: tipo de dado
+N: nome que é fornecido a variável
+VI: um valor inicial, caso se deseje
+
+Convenções e regras:
+
+*Não devem começar com números;
+*Embora permitido, "$" e "_" devem ser evitados;¨
+*São case-sensitive;
+*Sem espaços;
+*Não pode ser as palavras reservadas do java:
+abstract continue for new switch assert default goto package
+synchronizedboolean do if private this break double case
+Implements throw proteted byte else import public throws 
+enum instanceof return transient catch extends int short try 
+char final interface static void class finally long strictfp
+volatile const float native super while
+
+Exemplos de:
+
+*int i;     *int I;
+*int 1a;    *int_1a;
+*int $aq;   *int I = 10;
+*int final j = 10;   
+*int asrn24678md;
+*int asrn246 78md;
+*int asrn2$4678_md = 10;
+*int asrn2$46%78_md = 10;
+
+
+Boas práticas:
+
+*Sempre começar com a letra minúscula;
+*Nome expressivos;
+*Notação camelo;
+*Quando constante(final) maiúscula e separada por "_";
