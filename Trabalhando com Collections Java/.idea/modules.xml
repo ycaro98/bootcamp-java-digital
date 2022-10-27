@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExemploSet/ExemploSet.iml" filepath="$PROJECT_DIR$/ExemploSet/ExemploSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploStreamAPI/ExemploStreamAPI.iml" filepath="$PROJECT_DIR$/ExemploStreamAPI/ExemploStreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemplosMap/ExemplosMap.iml" filepath="$PROJECT_DIR$/ExemplosMap/ExemplosMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosList/ExerciciosList.iml" filepath="$PROJECT_DIR$/ExerciciosList/ExerciciosList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosMap/ExerciciosMap.iml" filepath="$PROJECT_DIR$/ExerciciosMap/ExerciciosMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSet/ExerciciosSet.iml" filepath="$PROJECT_DIR$/ExerciciosSet/ExerciciosSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intro-Collections/Intro-Collections.iml" filepath="$PROJECT_DIR$/Intro-Collections/Intro-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Trabalhando com Collections Java.iml" filepath="$PROJECT_DIR$/.idea/Trabalhando com Collections Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
