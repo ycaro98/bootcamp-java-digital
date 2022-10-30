@@ -1,0 +1,20 @@
+Conceito: "Um objeto é a representação de um conceito/entidade do mundo real, que pode ser física (bola, carro, árvore etc.) ou conceitual (viagem, estoque, compra etc.) e possui um significado bem definido para um determinado software. Para esse conceito/entidade, deve ser definida inicialmente uma classe a partir da qual posteriormente serão instaciados objetos distintos."
+
+Criação:
+
+Java:				C#					Python: 
+
+Carro carro = new Carro();	Carro carro = new Carro();		carro = Carro()
+
+=========================================================================================================================
+
+Conceito de mensagem: é o processo de ativação de um método de um objeto. Isto ocorre quando uma requisição (chamada) a esse método é realizada, assim disparando a execução de seu comportamento descrito por sua classe. Pode também ser direcionada diretamente à classe, caso a requisição seja um método estático."
+
+Código:
+
+Java:				C#					Python: 
+
+Carro carro = new Carro();	Carro carro = new Carro();		carro = Carro()
+carro.<método>;			carro.<método>;				carro.<método>;
+
+Carro.<método>;			Carro.<método>;				Carro.<método>;

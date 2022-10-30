@@ -1,0 +1,9 @@
+Conceituando: A orientação a Objetos é um paradigma de análise, projeto e programação de sistemas de software baseado na composição e interação entre diversas unidades de software chamadas de objetos.
+
+Fundamentos:
+1º Abstração: Processo pelo qual se isolam características de um objeto, considerando os que tenham em comum certos grupos de objetos.
+
+2º Reuso: Capacidade de criar novas unidades de código a partir de outras já existentes.
+
+3º Encapsulamento: Capacidade de esconder complexidades e proteger dados. 
+

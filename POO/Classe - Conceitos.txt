@@ -1,0 +1,19 @@
+Estrutras básicas da POO:
+
+Classe: é uma estrutura que abstrai um conjunto de objetos com características similares. Uma classe define o comportamento de seus objetos através de métodos e os estados possíveis destes objetos através de atributos. Em outros termos, uma classe descreve os serviços providos por seus objetos e quais informações eles podem armazenas. 
+
+Exemplos:  Bola, Carro, Viagem, Computador, venda, comprador...
+
+Dicas de criação de classe: 
+*Sempre serão substantivos
+*definir a classe com nomes significativos
+*Contexto deve ser considerado
+
+Códigos de classe:
+
+Java: class Carro {} 
+
+C#: class Carro {}
+
+Python: class Carro : pass
+ 

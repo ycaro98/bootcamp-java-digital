@@ -1,0 +1,18 @@
+Conceito: É o elemento de uma classe responsável por definir sua estrutura de dados. O conjunto destes será responsável por representar suas características  e fará parte dos objetos criados a partir da classe.
+Exemplo: bola(diametro), carro(cor), viagem(distancia), computador(memoria), comprador(nome), venda(valor)
+
+Atributo X variável
+
+A: O que é próprio e peculiar a alguém ou a alguma coisa;
+V: Sujeito a variações ou mudanças; que pode variar; inconstante, instável.
+
+Dicas de uso de atributo:
+*Substantivos e adjetivos
+*Nome significativo
+*Contexto deve ser considerado
+*Abstração
+*Tipos adequados
+
+Exemplo de atributo:
+
+Java: class Carro {int portas;}  C#: class Carro { int portas;}  Python: class Carro: portas = 0

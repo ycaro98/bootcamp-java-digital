@@ -1,0 +1,55 @@
+Conceito: É uma porção (sub-rotina) que é disponibilizada pela classe. Este é executado quando é feita uma requisição a ele. Um método serve para identificar quais serviços, ações, que a classe oferece. Eles são responsaveis por definir e realizar um determinado comportamento.
+
+Exemplos: Carro(ligar), Computador(desligar), Venda(Calcular total), Comprador(realizar troca) 
+
+Criação de método:
+
+Java e C#:					Python
+*Visibilidade					*def
+*Retorno					*Nome
+*Nome						*Parâmetros
+*Parâmetros
+=======================================================================================================================================================================
+Dicas de método: 
+*Utilizar verbos
+*Nomes significativos
+*Contexto deve ser considerado
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Definição de código método:
+
+Java:				C#:					Python:
+class Carro{			class Carro {				class Carro:
+	void frear(){			void frear(){				def frear()
+		...				...
+	}				}
+}				}
+=======================================================================================================================================================================
+Dois métodos especiais: 
+* Construtor
+Java:				C#:					Python:
+class Carro{			class Carro {				class Carro:
+	Carro(){			Carro(){				def __init__(self):
+		...				...					...
+	}				}
+}				}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Destrutor
+Java:				C#:					Python:
+class Carro{			class Carro {				class Carro:
+	void finalize(){		~Carro(){				def __del__(self):
+		...				...					...
+	}				}
+}				}
+
+=======================================================================================================================================================================
+Sobrecarga do método: mudar a assinatura de acordo com a necessidade
+	- assinatura: nome + parâmetros
+
+Java:					C#:					Python: Não existe sobrecarga
+m1()					M1()	
+m1(int i)				M1(int i)
+m1(float f)				M1(float f)
+m1(String s, long l)			M1(String s, long l)
+m1(long l, String s)			M1(long l, String s)
+
+Porque usar sobrecarga? 

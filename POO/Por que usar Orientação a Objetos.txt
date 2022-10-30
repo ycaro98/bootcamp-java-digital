@@ -1,0 +1,18 @@
+Programação estrutura VS programação Orientada a Objetos
+
+*Programação estruturada tem uma representação mais simplista
+*Programação Orientada a Objeto tem uma representação mais realista
+
+*Programação Estrutura foca em operações(funções) e dadods
+*Paradigma Orientado a Objetos foca na modelagem de entidades e nas interações entre estas entidades.
+
+*Programação Estruturada foca mais no "como fazer"
+*Programação Orientada a Objetos foca mais no "o que fazer" 
+ 
+Vantagens de POO
+
+*Melhor coesão
+*Melhor acoplamento
+*Diminuição do Gap semântico
+*Coletor de lixo
+

@@ -1,0 +1,9 @@
+Levando em consideração uma loja on-line de livros, modele uma entidade livro:
+
+Características da entidade livro: Quantidade páginas, ano de publicação, peso edição, tema, editora, tipo de papel, tipo de capa, assunto, autor, ISBN, Idioma, Título, Dimensões, Sub-titulo, Acabamento, Coloração..
+
+Características da entidade livro pra quem vai comprar o livro: Tema, Edição, Autor, Sub-Titulo, ISBN, Quantidade de Paginas, Título, Assunto, Ano da publicão e Editora
+
+Características da entidade livro pra quem a Editora: Quantidade de páginas, Tipo de Papel, Peso, Tipo de capa, Coloração, Gramatura, Acabamento, ISBN,  Dimensões e Sub-Titulo.
+
+Características da resolução do exercício: Quantidade de páginas, ISBN, Assunto, Título, Editora e Autor. 
