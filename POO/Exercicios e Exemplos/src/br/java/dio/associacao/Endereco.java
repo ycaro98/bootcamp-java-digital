@@ -1,2 +1,4 @@
-package br.java.dio.associacao;public class Endereco {
+package br.java.dio.associacao;
+
+public class Endereco {
 }

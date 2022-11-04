@@ -1,0 +1,8 @@
+Conceito: São uma organização física ou lógica criada para separar classes com responsabilidades distintas. Com isso espera-se que a aplicação fique mais organizada e seja possível separar classes de finalidades e representatividades diferentes.
+
+Estruturas de código:
+Java:			C#			Python
+package ...; 		namespace{...}		__init__.py(2.x)
+
+import...;		using ...;		from ...
+						import ...

@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae7d1b5-6792-497c-bacd-22cb737326a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/out/production/comandoFor/comando/forpara/basecamp/forPara.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/out/production/comandoFor/comando/forpara/basecamp/forPara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/out/production/comandoFor/forarray/basecamp/forArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/src/comando/forpara/basecamp/forPara.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/src/comando/forpara/basecamp/forPara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estruturas de Repetição em Java/Projetos/comandoFor/src/forarray/basecamp/forArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploSet/ExemploSet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemplosMap/ExemplosMap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciciosList/ExerciciosList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciciosSet/ExerciciosSet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro-Collections/Intro-Collections.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/associacao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/associacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/interfaces/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/interfaces/OperacaoMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/outropacote/ExemploPacotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/outropacote/ExemploPacotes1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/outropacote/ExemploPacotes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/qualqueroutropacote/ExemploPacote3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Gradle/src/main/java/org/example/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Gradle/src/test/java/PessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes Unitários com JUnit/myProject/Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tratamento de exceções/untitled/src/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tratamento de exceções/untitled/src/ExceptionCustomizada_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Bootcamp Quebec Java Digital.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/out/production/Exercicios e Exemplos/br/java/dio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/out/production/Exercicios e Exemplos/br/java/dio/RodarAplicação.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/estruturabasica/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/RodarAplicação.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/Exercicios e Exemplos/src/br/java/dio/estruturabasica/RodarAplicação.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +51,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Workspace/MyGit/Bootcamp - Anotações e Projetos/Bootcamp Quebec Java Digital/Trabalhando com Collections Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/MyGit/Bootcamp - Anotações e Projetos/Bootcamp Quebec Java Digital/Trabalhando com Collections Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1666808538183</updated>
       <workItem from="1666808545380" duration="161000" />
+      <workItem from="1667497460667" duration="597000" />
+      <workItem from="1667563126116" duration="128000" />
+      <workItem from="1667564366220" duration="43000" />
+      <workItem from="1667565915249" duration="334000" />
     </task>
     <servers />
   </component>

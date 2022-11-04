@@ -1,4 +1,4 @@
-package br.java.dio;
+package br.java.dio.estruturabasica;
 
 public class RodarAplicação {
     public static void main(String[] args) {

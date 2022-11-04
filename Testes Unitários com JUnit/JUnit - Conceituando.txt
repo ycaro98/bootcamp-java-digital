@@ -1,0 +1,2 @@
+Um pouco de sua história:
+	-É um framework open source para criação de testes unitários criado por Erich Gamma(TDD) e Kent Beck(Gang of Four, Design Patterns)

@@ -1,0 +1,10 @@
+Upcast: Subir a hierarquia. 
+Downcast: Aprofundar na hierarquia.
+
+Código Upcast:		
+ Java:				 C#			Python: não tem
+A a = new B();			A a = new B();
+
+Código Downcast:
+Java: 				C#			Python: não tem
+B a = (B)new A();		B b = (B) new A();

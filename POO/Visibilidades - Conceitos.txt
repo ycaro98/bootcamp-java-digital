@@ -1,0 +1,27 @@
+Conceituando: um modificador de acesso tem como finalidade determinar até que ponto uma classe, atributo ou método pode ser usado. A utilização de modificadores de acesso é fundamental para o uso efetivo da Orientação a Objetos. Algumas boas práticas e conceitos só são atingidos com o uso corretos deles.
+	
+Tipos de visibilidade: 
+-Private: Só dentro da classe
+Estrutura de código
+Java:				C#
+private				private
+
+private int i;			private int i;
+private void do();		private void Do();
+
+-Protected: Dentro da classe, mesmo pacote e subclasses
+Java:				C#
+protected			protected 
+
+protected int i;		protected int i;
+protected void do();		protected void Do();
+
+-Public: Em qualquer lugar
+public				public 
+
+public int i;			public int i;
+public void do();		public void Do();
+
+
+
+Obs.: Python não trabalha muito com tipos de visilidades. Todas as classes são públicas.

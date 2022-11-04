@@ -1,4 +1,4 @@
-package br.java.dio;
+package br.java.dio.estruturabasica;
 
 /**
  * Classe de exemplo para o exercício da Aula 2 de Orientação a Objetos

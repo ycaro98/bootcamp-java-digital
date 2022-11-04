@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PessoaTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-03T01:21:35" hostname="DESKTOP-JLC1Q57" time="0.139">
+  <properties/>
+  <testcase name="deveRetornarSeEhMaiorDeIdade()" classname="PessoaTeste" time="0.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

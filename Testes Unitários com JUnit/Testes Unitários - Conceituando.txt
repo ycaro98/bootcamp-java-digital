@@ -1,0 +1,19 @@
+O que são testes unitário?
+	-Também chamado de testes de unidade
+	-Testar a menor unidade de código possível
+	-Unidade: função, método, classes
+	-Testar uma aplicação na sua menor parte
+	-Geralmente escrito em tempo de desenvolvimento
+
+Por que escrever testes unitários?
+Situações no desenvolvimento de software que mostram a importância de testes unitários:
+	-Compreender o código fonte
+	-Corrigir bugs com segurança
+	-Refatorar código sem introduzi bugs
+	-Entregar com segurança uma nova feature
+Podemos ainda falar sobre:
+	-Pirâmide de testes
+	-Testes unitários como métrica de Qualidade(Confiabilidade)
+	-Cobertura de testes
+	-Automação na execução de testes
+	-Cultura de Agilidade

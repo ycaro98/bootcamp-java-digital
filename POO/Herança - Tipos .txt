@@ -1,0 +1,9 @@
+Tipos de herança:
+*Simples: uma classe filha que pertence a apenas uma classe mãe
+
+*Múltipla: a classe filha tem uma ou mais classe mães
+
+Obs.: java e C# não tem herança múltipla      
+Python: class A(B,C):
+		pass
+

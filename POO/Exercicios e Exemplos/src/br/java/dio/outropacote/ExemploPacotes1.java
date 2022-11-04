@@ -1,2 +1,4 @@
-package br.java.dio.outropacote;public class ExemploPacotes1 {
+package br.java.dio.outropacote;
+
+public class ExemploPacotes1 {
 }

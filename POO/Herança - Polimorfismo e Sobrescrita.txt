@@ -1,0 +1,4 @@
+Conceituando polimorfismo: A mesma ação, se comportando diferente.
+
+Conceituando sobrescrita: A mesma ação, podendo se comportar diferente.
+

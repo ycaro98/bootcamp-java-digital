@@ -1,2 +1,7 @@
-package br.java.dio.associacao;public class Pessoa {
+package br.java.dio.associacao;
+
+public class Pessoa {
+
+    Endereco endereco;
+
 }

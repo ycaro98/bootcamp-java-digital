@@ -1,0 +1,31 @@
+Conceituando: Possibilita um relacionamento entre classes/objetos, no qual estes possam pedir ajuda a outras classe/objetos e representar de forma completa o conceito ao qual se destinam. Neste tipo de relacionamento, as classes e os objetos interagem entre si para atingir seus objetivos.
+
+Tipos de associação:
+*Estrutural:
+-Composição: "Com Parte Todo"
+Ex.: Pessoa e Endereço
+Código estrutural:
+		Java:
+		class Pessoa {
+			Endereco endereco;
+		}
+
+-Agregação: Sem parte todo
+Ex.: Disciplina e Aluno
+Código estrutural:
+		Java:
+		class Disciplina{
+			Aluno aluno;
+		}
+
+
+*Comportamental:
+-Dependência: depende de
+Código estrutural:
+		Java:
+		class Compra{
+			...
+			finalizar(Cupom cupom,...){
+			...
+			}
+		}
